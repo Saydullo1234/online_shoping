@@ -74,7 +74,7 @@ class _MyAppState extends State<MyApp> {
                       ),
                       SingleChildScrollView(
                         child: SizedBox(height: 50, width: 100,
-                            child: Image.network('assets/images/img.icons8.png')),
+                            child: Image.network('assets/images/img_1.png')),
                       ),
 
                     ],
